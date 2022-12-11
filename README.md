@@ -1,2 +1,6 @@
 # app-dev
 My first repository
+## MY FAV MOVIE ON MY CELLPHONE 
+1. SLAMDUNK 
+2. FAST AND FURIOCUS
+3. HUNTER X HUNTER 
